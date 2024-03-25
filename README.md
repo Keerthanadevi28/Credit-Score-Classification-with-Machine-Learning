@@ -1,5 +1,4 @@
-Credit Score Classification with Machine Learning
-
+CreditInsight ML
 This project focuses on predicting credit scores using machine learning techniques. Credit score prediction is a vital task in the financial sector for assessing individuals' creditworthiness, which is crucial for various financial services such as loans, mortgages, and credit cards. By leveraging machine learning algorithms, specifically RandomForestClassifier, this project aims to accurately predict credit scores based on a range of features related to individuals' financial behavior and demographic information.
 
 Introduction
